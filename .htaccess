@@ -1,0 +1,55 @@
+Options +FollowSymLinks
+RewriteEngine on
+DirectoryIndex   index.php
+
+RewriteRule trang-chu.html$ index.php
+RewriteRule gioi-thieu.html$ index.php?com=gioi-thieu
+
+RewriteRule plan-trip.html$ index.php?com=plan-trip
+RewriteRule login.html$ index.php?com=login
+
+RewriteRule dang-ky-nhan-tin.html$ index.php?com=dang-ky-nhan-tin
+
+
+
+
+RewriteRule tuyen-dung.html$ index.php?com=tuyen-dung
+RewriteRule huong-dan-mua-hang.html$ index.php?com=huong-dan-mua-hang
+RewriteRule chinh-sach-bao-hanh.html$ index.php?com=chinh-sach-bao-hanh
+RewriteRule van-chuyen-giao-hang.html$ index.php?com=van-chuyen-giao-hang
+RewriteRule che-do-bao-hanh.html$ index.php?com=che-do-bao-hanh
+
+RewriteRule tim-kiem.html$ index.php?com=tim-kiem
+
+RewriteRule tour-finder.html$ index.php?com=tour-finder
+
+RewriteRule hotel-finder.html$ index.php?com=hotel-finder
+
+
+RewriteRule lien-he.html$ index.php?com=lien-he
+RewriteRule Guide.html$ index.php?com=Guide
+
+RewriteRule About-us.html$ index.php?com=About-us
+
+RewriteRule tours.html$ index.php?com=tours
+RewriteRule gio-hang.html$ index.php?com=gio-hang
+RewriteRule thanh-toan.html$ index.php?com=thanh-toan
+
+RewriteRule thanh-toan-g.html$ index.php?com=thanh-toan-g
+RewriteRule search-tour.html$ index.php?com=search-tour&act=result
+RewriteRule search-hotel.html$ index.php?com=search-hotel&act=result
+
+
+RewriteRule tours-d1/(.*)-(.*).html$ index.php?com=tours&idc=$2
+
+RewriteRule tours-d2/(.*)-(.*).html$ index.php?com=tours&idi=$2
+
+
+
+
+RewriteRule Guide/(.*)-(.*).html$ index.php?com=Guide&id=$2
+
+RewriteRule About-us/(.*)-(.*).html$ index.php?com=About-us&id=$2
+
+
+

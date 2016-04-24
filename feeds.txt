@@ -1,0 +1,32 @@
+﻿<?xml version='1.0' encoding='utf-8' ?>
+ <rss version='0.91'>
+ 	
+
+<channel>
+ <title>HAHUCO</title>
+ <link>http://vietit.vn/hahuco/</link>
+ <description>CÔNG TY TINH SX TM DV HAHUCO là một nhà thầu độc lập, chuyên nghiệp trong lĩnh vực thiết kế, thi công và quản lý công trình xây dựng</description>
+ <language>en-us</language>
+ <image>
+<title>HAHUCO</title>
+ 
+ <link>http://vietit.vn/hahuco/</link>
+ 
+ 
+ </image>
+<item>
+ <title>CÔNG TY TINH SX TM DV HAHUCO</title>
+ <link>http://vietit.vn/hahuco/</link>
+ <description>
+ Thị trường điện thoại di động sôi động với nhiều model mới hấp dẫn về kiểu dáng lẫn tính năng.
+ </description>
+  </item>
+<item>
+ <title>Cơ bản hoàn thành các chỉ tiêu sản xuất kinh doanh trong quý </title>
+ <link>http://vietit.vn/hahuco/tin-tuc.html</link>
+ <description>
+ Tổng công ty Điện lực miền Trung (EVNCPC) cho biết, quý I/2013, EVNCPC đã đảm bảo vận hành hệ thống điện an toàn liên tục, đáp ứng tốt nhu cầu phát triển kinh tế, xã hội và an ninh chính trị trên địa bàn...
+ </description>
+ </item>
+ </channel>
+ </rss>
