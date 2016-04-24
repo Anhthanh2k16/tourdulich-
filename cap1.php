@@ -11,7 +11,7 @@
 	include_once _lib."file_requick.php";
 	
 	
-$d->reset();		
+		
 	$sql = "select * FROM #_product_cat where hienthi=1 and com='cat1' and id_cat='".$_REQUEST['id']."' order by stt asc";
 	$d->query($sql);
 	$rs_c2=$d->result_array();
